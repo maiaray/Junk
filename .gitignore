@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/ #adding these to gitignore means they won't be added to the repository
+.xls
